@@ -1,0 +1,3527 @@
+{
+    "kode": "1",
+    "pesan",
+    "jumlah_data": "145",
+    "data": "[{
+        "id_transaksi": "1710032335",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T00:58:55.000Z",
+        "jenis_barang": 1,
+        "jumlah_barang": 3,
+        "total_harga": 195000,
+        "detail": [
+            {
+                "barang": "Beras kemasan",
+                "harga_satuan": 65000,
+                "jumlah": 3,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710032779",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T01:06:19.000Z",
+        "jenis_barang": 1,
+        "jumlah_barang": 1,
+        "total_harga": 12000,
+        "detail": [
+            {
+                "barang": "Pizza",
+                "harga_satuan": 12000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710033237",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T01:13:57.000Z",
+        "jenis_barang": 2,
+        "jumlah_barang": 11,
+        "total_harga": 655000,
+        "detail": [
+            {
+                "barang": "Margarin Fitri",
+                "harga_satuan": 5000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Beras kemasan",
+                "harga_satuan": 65000,
+                "jumlah": 10,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710033755",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T01:22:35.000Z",
+        "jenis_barang": 2,
+        "jumlah_barang": 2,
+        "total_harga": 73000,
+        "detail": [
+            {
+                "barang": "Beras kemasan",
+                "harga_satuan": 65000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Sabun Papaya",
+                "harga_satuan": 8000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710033820",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T01:23:40.000Z",
+        "jenis_barang": 2,
+        "jumlah_barang": 33,
+        "total_harga": 1965000,
+        "detail": [
+            {
+                "barang": "Margarin Fitri",
+                "harga_satuan": 5000,
+                "jumlah": 3,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Beras kemasan",
+                "harga_satuan": 65000,
+                "jumlah": 30,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710033934",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T01:25:34.000Z",
+        "jenis_barang": 1,
+        "jumlah_barang": 1,
+        "total_harga": 14500,
+        "detail": [
+            {
+                "barang": "Minyak BKP Fresh",
+                "harga_satuan": 14500,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710034333",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T01:32:13.000Z",
+        "jenis_barang": 2,
+        "jumlah_barang": 5,
+        "total_harga": 272000,
+        "detail": [
+            {
+                "barang": "Pizza",
+                "harga_satuan": 12000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Beras kemasan",
+                "harga_satuan": 65000,
+                "jumlah": 4,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710034488",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T01:34:48.000Z",
+        "jenis_barang": 4,
+        "jumlah_barang": 8,
+        "total_harga": 85500,
+        "detail": [
+            {
+                "barang": "Pizza",
+                "harga_satuan": 12000,
+                "jumlah": 4,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Sabun Boom dapat 3",
+                "harga_satuan": 9500,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Cokelat Arjaiha",
+                "harga_satuan": 11000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Kulit Lumpia",
+                "harga_satuan": 8500,
+                "jumlah": 2,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710034692",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T01:38:12.000Z",
+        "jenis_barang": 2,
+        "jumlah_barang": 2,
+        "total_harga": 23500,
+        "detail": [
+            {
+                "barang": "Eyebrow Powder",
+                "harga_satuan": 16500,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Viva Face Tonic",
+                "harga_satuan": 7000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710035376",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T01:49:36.000Z",
+        "jenis_barang": 6,
+        "jumlah_barang": 14,
+        "total_harga": 155000,
+        "detail": [
+            {
+                "barang": "Kesett",
+                "harga_satuan": 4500,
+                "jumlah": 2,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Kopi bubuk murni 325g",
+                "harga_satuan": 13000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Iner kerudung",
+                "harga_satuan": 3000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Kurma golden 500gr",
+                "harga_satuan": 13000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Milo Toples",
+                "harga_satuan": 21000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Pizza",
+                "harga_satuan": 12000,
+                "jumlah": 8,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710035662",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T01:54:22.000Z",
+        "jenis_barang": 1,
+        "jumlah_barang": 1,
+        "total_harga": 11000,
+        "detail": [
+            {
+                "barang": "Cokelat Arjaiha",
+                "harga_satuan": 11000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710035747",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T01:55:47.000Z",
+        "jenis_barang": 1,
+        "jumlah_barang": 1,
+        "total_harga": 65000,
+        "detail": [
+            {
+                "barang": "Beras kemasan",
+                "harga_satuan": 65000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710035818",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T01:56:58.000Z",
+        "jenis_barang": 1,
+        "jumlah_barang": 1,
+        "total_harga": 150000,
+        "detail": [
+            {
+                "barang": "My Jelly",
+                "harga_satuan": 150000,
+                "jumlah": 1,
+                "satuan": "Dus"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710035890",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T01:58:10.000Z",
+        "jenis_barang": 3,
+        "jumlah_barang": 3,
+        "total_harga": 32000,
+        "detail": [
+            {
+                "barang": "Evangelina",
+                "harga_satuan": 14000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Sabun harmony isi 6",
+                "harga_satuan": 13000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Cuci Piring",
+                "harga_satuan": 5000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710035918",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T01:58:38.000Z",
+        "jenis_barang": 1,
+        "jumlah_barang": 1,
+        "total_harga": 12000,
+        "detail": [
+            {
+                "barang": "Pizza",
+                "harga_satuan": 12000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710036061",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T02:01:01.000Z",
+        "jenis_barang": 4,
+        "jumlah_barang": 4,
+        "total_harga": 61500,
+        "detail": [
+            {
+                "barang": "Kurma golden 500gr",
+                "harga_satuan": 13000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Tisu Wajah",
+                "harga_satuan": 7000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Star Wafer Stick Mini",
+                "harga_satuan": 10500,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Batang Gorden UK 2M",
+                "harga_satuan": 31000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710036094",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T02:01:34.000Z",
+        "jenis_barang": 1,
+        "jumlah_barang": 1,
+        "total_harga": 6500,
+        "detail": [
+            {
+                "barang": "Parfum Laundry Botol 500ml",
+                "harga_satuan": 6500,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710036115",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T02:01:55.000Z",
+        "jenis_barang": 1,
+        "jumlah_barang": 2,
+        "total_harga": 24000,
+        "detail": [
+            {
+                "barang": "Pizza",
+                "harga_satuan": 12000,
+                "jumlah": 2,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710036214",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T02:03:34.000Z",
+        "jenis_barang": 4,
+        "jumlah_barang": 7,
+        "total_harga": 601000,
+        "detail": [
+            {
+                "barang": "Kurma golden 500gr",
+                "harga_satuan": 13000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Bidaran RJ 200g",
+                "harga_satuan": 8000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "My Jelly",
+                "harga_satuan": 150000,
+                "jumlah": 3,
+                "satuan": "Dus"
+            },
+            {
+                "barang": "Beras kemasan",
+                "harga_satuan": 65000,
+                "jumlah": 2,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710036266",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T02:04:26.000Z",
+        "jenis_barang": 1,
+        "jumlah_barang": 1,
+        "total_harga": 8500,
+        "detail": [
+            {
+                "barang": "Kulit Lumpia",
+                "harga_satuan": 8500,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710036319",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T02:05:19.000Z",
+        "jenis_barang": 3,
+        "jumlah_barang": 5,
+        "total_harga": 91000,
+        "detail": [
+            {
+                "barang": "Kulit Lumpia",
+                "harga_satuan": 8500,
+                "jumlah": 2,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Kesett",
+                "harga_satuan": 4500,
+                "jumlah": 2,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Beras kemasan",
+                "harga_satuan": 65000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710036399",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T02:06:39.000Z",
+        "jenis_barang": 1,
+        "jumlah_barang": 2,
+        "total_harga": 130000,
+        "detail": [
+            {
+                "barang": "Beras kemasan",
+                "harga_satuan": 65000,
+                "jumlah": 2,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710036462",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T02:07:42.000Z",
+        "jenis_barang": 2,
+        "jumlah_barang": 2,
+        "total_harga": 75000,
+        "detail": [
+            {
+                "barang": "Semir rambut implora",
+                "harga_satuan": 10000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Beras kemasan",
+                "harga_satuan": 65000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710036867",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T02:14:27.000Z",
+        "jenis_barang": 1,
+        "jumlah_barang": 2,
+        "total_harga": 24000,
+        "detail": [
+            {
+                "barang": "Pizza",
+                "harga_satuan": 12000,
+                "jumlah": 2,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710037433",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T02:23:53.000Z",
+        "jenis_barang": 1,
+        "jumlah_barang": 1,
+        "total_harga": 5000,
+        "detail": [
+            {
+                "barang": "Pitato Kecil",
+                "harga_satuan": 5000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710037586",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T02:26:26.000Z",
+        "jenis_barang": 2,
+        "jumlah_barang": 4,
+        "total_harga": 44500,
+        "detail": [
+            {
+                "barang": "Masker Dewasa KF94 10pcs",
+                "harga_satuan": 4000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "pizza Long",
+                "harga_satuan": 13500,
+                "jumlah": 3,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710037675",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T02:27:55.000Z",
+        "jenis_barang": 1,
+        "jumlah_barang": 1,
+        "total_harga": 23000,
+        "detail": [
+            {
+                "barang": "Kipas genggam karakter",
+                "harga_satuan": 23000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710037978",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T02:32:58.000Z",
+        "jenis_barang": 8,
+        "jumlah_barang": 9,
+        "total_harga": 90500,
+        "detail": [
+            {
+                "barang": "Kipas genggam karakter",
+                "harga_satuan": 23000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Duckbill Hitam / Putih",
+                "harga_satuan": 8000,
+                "jumlah": 2,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Vaseline Lip Therapi",
+                "harga_satuan": 8000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Kutek",
+                "harga_satuan": 6000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Makaroni Mini 200g",
+                "harga_satuan": 7000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Kerupuk seblak 200gram",
+                "harga_satuan": 8000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Usus Crispy 250g",
+                "harga_satuan": 13500,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Kerupuk udang panggang",
+                "harga_satuan": 9000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710038073",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T02:34:33.000Z",
+        "jenis_barang": 1,
+        "jumlah_barang": 1,
+        "total_harga": 23000,
+        "detail": [
+            {
+                "barang": "Temulawak 1Paket",
+                "harga_satuan": 23000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710038160",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T02:36:00.000Z",
+        "jenis_barang": 5,
+        "jumlah_barang": 8,
+        "total_harga": 111500,
+        "detail": [
+            {
+                "barang": "Minyak Risky",
+                "harga_satuan": 16000,
+                "jumlah": 2,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Kopi bubuk murni 325g",
+                "harga_satuan": 13000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Gula",
+                "harga_satuan": 15000,
+                "jumlah": 2,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Deterjen Sayang Dapat 3",
+                "harga_satuan": 9500,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Pepsodent",
+                "harga_satuan": 13500,
+                "jumlah": 2,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710038237",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T02:37:17.000Z",
+        "jenis_barang": 1,
+        "jumlah_barang": 2,
+        "total_harga": 130000,
+        "detail": [
+            {
+                "barang": "Beras kemasan",
+                "harga_satuan": 65000,
+                "jumlah": 2,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710038293",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T02:38:13.000Z",
+        "jenis_barang": 3,
+        "jumlah_barang": 5,
+        "total_harga": 214000,
+        "detail": [
+            {
+                "barang": "Pie susu",
+                "harga_satuan": 16000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Milku",
+                "harga_satuan": 3000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Beras kemasan",
+                "harga_satuan": 65000,
+                "jumlah": 3,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710038352",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T02:39:12.000Z",
+        "jenis_barang": 1,
+        "jumlah_barang": 1,
+        "total_harga": 12000,
+        "detail": [
+            {
+                "barang": "Pizza",
+                "harga_satuan": 12000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710038478",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T02:41:18.000Z",
+        "jenis_barang": 3,
+        "jumlah_barang": 3,
+        "total_harga": 16000,
+        "detail": [
+            {
+                "barang": "Mascara Lameila",
+                "harga_satuan": 7000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Penjepit Bulu Mata",
+                "harga_satuan": 5000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Masker Dewasa KF94 10pcs",
+                "harga_satuan": 4000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710038626",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T02:43:46.000Z",
+        "jenis_barang": 4,
+        "jumlah_barang": 5,
+        "total_harga": 123000,
+        "detail": [
+            {
+                "barang": "Kurma Al Qasim 500gram",
+                "harga_satuan": 15000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Sabun Papaya",
+                "harga_satuan": 8000,
+                "jumlah": 2,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Beras Rojolele 5KG",
+                "harga_satuan": 72000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Sabun Bamboo MSI",
+                "harga_satuan": 20000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710038652",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T02:44:12.000Z",
+        "jenis_barang": 1,
+        "jumlah_barang": 1,
+        "total_harga": 22500,
+        "detail": [
+            {
+                "barang": "Lipcream Hanasui",
+                "harga_satuan": 22500,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710038676",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T02:44:36.000Z",
+        "jenis_barang": 1,
+        "jumlah_barang": 2,
+        "total_harga": 27000,
+        "detail": [
+            {
+                "barang": "pizza Long",
+                "harga_satuan": 13500,
+                "jumlah": 2,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710038743",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T02:45:43.000Z",
+        "jenis_barang": 2,
+        "jumlah_barang": 16,
+        "total_harga": 540000,
+        "detail": [
+            {
+                "barang": "Gula",
+                "harga_satuan": 15000,
+                "jumlah": 10,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Beras kemasan",
+                "harga_satuan": 65000,
+                "jumlah": 6,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710038919",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T02:48:39.000Z",
+        "jenis_barang": 2,
+        "jumlah_barang": 12,
+        "total_harga": 720000,
+        "detail": [
+            {
+                "barang": "Margarin Fitri",
+                "harga_satuan": 5000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Beras kemasan",
+                "harga_satuan": 65000,
+                "jumlah": 11,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710039098",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T02:51:38.000Z",
+        "jenis_barang": 4,
+        "jumlah_barang": 6,
+        "total_harga": 242000,
+        "detail": [
+            {
+                "barang": "Sosis Merah Abah 750gr",
+                "harga_satuan": 23500,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Minipao Umiami",
+                "harga_satuan": 14000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Roti Maryam Ori 225g",
+                "harga_satuan": 9500,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Beras kemasan",
+                "harga_satuan": 65000,
+                "jumlah": 3,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710039139",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T02:52:19.000Z",
+        "jenis_barang": 1,
+        "jumlah_barang": 2,
+        "total_harga": 24000,
+        "detail": [
+            {
+                "barang": "Pizza",
+                "harga_satuan": 12000,
+                "jumlah": 2,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710039197",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T02:53:17.000Z",
+        "jenis_barang": 3,
+        "jumlah_barang": 3,
+        "total_harga": 37000,
+        "detail": [
+            {
+                "barang": "Jedai Cakar 5cm",
+                "harga_satuan": 2000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Lipcream Hanasui",
+                "harga_satuan": 22500,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Keranjang Baju Kotor Lipat",
+                "harga_satuan": 12500,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710039238",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T02:53:58.000Z",
+        "jenis_barang": 1,
+        "jumlah_barang": 1,
+        "total_harga": 65000,
+        "detail": [
+            {
+                "barang": "Beras kemasan",
+                "harga_satuan": 65000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710039510",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T02:58:30.000Z",
+        "jenis_barang": 2,
+        "jumlah_barang": 3,
+        "total_harga": 55000,
+        "detail": [
+            {
+                "barang": "Cleantexs Pembersih Kamar Mandi",
+                "harga_satuan": 13000,
+                "jumlah": 2,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Kerupuk Tongkol Ball",
+                "harga_satuan": 29000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710039696",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T03:01:36.000Z",
+        "jenis_barang": 3,
+        "jumlah_barang": 12,
+        "total_harga": 189000,
+        "detail": [
+            {
+                "barang": "Sabun Kedas Beauty",
+                "harga_satuan": 26000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Kopi bubuk murni 325g",
+                "harga_satuan": 13000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Gula",
+                "harga_satuan": 15000,
+                "jumlah": 10,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710039753",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T03:02:33.000Z",
+        "jenis_barang": 2,
+        "jumlah_barang": 2,
+        "total_harga": 106000,
+        "detail": [
+            {
+                "barang": "Mente 1Kg",
+                "harga_satuan": 41000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Beras kemasan",
+                "harga_satuan": 65000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710039901",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T03:05:01.000Z",
+        "jenis_barang": 4,
+        "jumlah_barang": 4,
+        "total_harga": 50000,
+        "detail": [
+            {
+                "barang": "Jepit rambut anak korea",
+                "harga_satuan": 8500,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Cireng Salju",
+                "harga_satuan": 8000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Sosis Salam Merah 500g",
+                "harga_satuan": 17500,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Pentol Vitalia 2 Pcs",
+                "harga_satuan": 16000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710040246",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T03:10:46.000Z",
+        "jenis_barang": 2,
+        "jumlah_barang": 2,
+        "total_harga": 155000,
+        "detail": [
+            {
+                "barang": "My Jelly",
+                "harga_satuan": 150000,
+                "jumlah": 1,
+                "satuan": "Dus"
+            },
+            {
+                "barang": "Margarin Fitri",
+                "harga_satuan": 5000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710040281",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T03:11:21.000Z",
+        "jenis_barang": 2,
+        "jumlah_barang": 4,
+        "total_harga": 202000,
+        "detail": [
+            {
+                "barang": "Beras kemasan",
+                "harga_satuan": 65000,
+                "jumlah": 3,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Sambungan Kran Air",
+                "harga_satuan": 7000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710040379",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T03:12:59.000Z",
+        "jenis_barang": 4,
+        "jumlah_barang": 13,
+        "total_harga": 683000,
+        "detail": [
+            {
+                "barang": "Margarin Fitri",
+                "harga_satuan": 5000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Cleantexs Pembersih Kamar Mandi",
+                "harga_satuan": 13000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Kurma Al Qasim 500gram",
+                "harga_satuan": 15000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Beras kemasan",
+                "harga_satuan": 65000,
+                "jumlah": 10,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710041139",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T03:25:39.000Z",
+        "jenis_barang": 3,
+        "jumlah_barang": 13,
+        "total_harga": 792000,
+        "detail": [
+            {
+                "barang": "Margarin Fitri",
+                "harga_satuan": 5000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Beras Rojolele 5KG",
+                "harga_satuan": 72000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Beras kemasan",
+                "harga_satuan": 65000,
+                "jumlah": 11,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710041344",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T03:29:04.000Z",
+        "jenis_barang": 5,
+        "jumlah_barang": 6,
+        "total_harga": 112500,
+        "detail": [
+            {
+                "barang": "Vaseline Lip Therapi",
+                "harga_satuan": 8000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Pie susu",
+                "harga_satuan": 16000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Cimory UHT isi 3 125ml",
+                "harga_satuan": 9500,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Nabati wafer",
+                "harga_satuan": 27000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "My Jelly 1Kg",
+                "harga_satuan": 26000,
+                "jumlah": 2,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710041495",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T03:31:35.000Z",
+        "jenis_barang": 6,
+        "jumlah_barang": 7,
+        "total_harga": 348500,
+        "detail": [
+            {
+                "barang": "Kerupuk seblak 200gram",
+                "harga_satuan": 8000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Star Wafer Stick Mini",
+                "harga_satuan": 10500,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Nabati wafer",
+                "harga_satuan": 27000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Dilan garuda",
+                "harga_satuan": 23000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Permen Yupi /Toples",
+                "harga_satuan": 22500,
+                "jumlah": 2,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Jelly Inaco Dus 10kg",
+                "harga_satuan": 235000,
+                "jumlah": 1,
+                "satuan": "Dus"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710041529",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T03:32:09.000Z",
+        "jenis_barang": 1,
+        "jumlah_barang": 1,
+        "total_harga": 11000,
+        "detail": [
+            {
+                "barang": "Temulawak night cream",
+                "harga_satuan": 11000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710041684",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T03:34:44.000Z",
+        "jenis_barang": 7,
+        "jumlah_barang": 17,
+        "total_harga": 510000,
+        "detail": [
+            {
+                "barang": "Kerupuk udang panggang",
+                "harga_satuan": 9000,
+                "jumlah": 2,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Candy carnival",
+                "harga_satuan": 10000,
+                "jumlah": 2,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Gula",
+                "harga_satuan": 15000,
+                "jumlah": 4,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Star Wafer Stick Mini Dus",
+                "harga_satuan": 100000,
+                "jumlah": 1,
+                "satuan": "Dus"
+            },
+            {
+                "barang": "Beras kemasan",
+                "harga_satuan": 65000,
+                "jumlah": 4,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Bakpia",
+                "harga_satuan": 10000,
+                "jumlah": 2,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Pie susu",
+                "harga_satuan": 16000,
+                "jumlah": 2,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710041722",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T03:35:22.000Z",
+        "jenis_barang": 1,
+        "jumlah_barang": 1,
+        "total_harga": 20500,
+        "detail": [
+            {
+                "barang": "Herborist Body Serum",
+                "harga_satuan": 20500,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710041783",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T03:36:23.000Z",
+        "jenis_barang": 1,
+        "jumlah_barang": 1,
+        "total_harga": 8000,
+        "detail": [
+            {
+                "barang": "Sabun Papaya",
+                "harga_satuan": 8000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710042289",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T03:44:49.000Z",
+        "jenis_barang": 3,
+        "jumlah_barang": 4,
+        "total_harga": 148000,
+        "detail": [
+            {
+                "barang": "Mascara gel",
+                "harga_satuan": 8000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Taplak Meja",
+                "harga_satuan": 10000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Beras kemasan",
+                "harga_satuan": 65000,
+                "jumlah": 2,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710042393",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T03:46:33.000Z",
+        "jenis_barang": 1,
+        "jumlah_barang": 2,
+        "total_harga": 130000,
+        "detail": [
+            {
+                "barang": "Beras kemasan",
+                "harga_satuan": 65000,
+                "jumlah": 2,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710042454",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T03:47:34.000Z",
+        "jenis_barang": 1,
+        "jumlah_barang": 1,
+        "total_harga": 65000,
+        "detail": [
+            {
+                "barang": "Beras kemasan",
+                "harga_satuan": 65000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710042510",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T03:48:30.000Z",
+        "jenis_barang": 1,
+        "jumlah_barang": 2,
+        "total_harga": 130000,
+        "detail": [
+            {
+                "barang": "Beras kemasan",
+                "harga_satuan": 65000,
+                "jumlah": 2,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710042587",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T03:49:47.000Z",
+        "jenis_barang": 1,
+        "jumlah_barang": 1,
+        "total_harga": 12000,
+        "detail": [
+            {
+                "barang": "Pizza",
+                "harga_satuan": 12000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710042623",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T03:50:23.000Z",
+        "jenis_barang": 1,
+        "jumlah_barang": 3,
+        "total_harga": 195000,
+        "detail": [
+            {
+                "barang": "Beras kemasan",
+                "harga_satuan": 65000,
+                "jumlah": 3,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710042691",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T03:51:31.000Z",
+        "jenis_barang": 4,
+        "jumlah_barang": 4,
+        "total_harga": 83000,
+        "detail": [
+            {
+                "barang": "Duckbill Hitam / Putih",
+                "harga_satuan": 8000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Vaseline Lip Therapi",
+                "harga_satuan": 8000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Panci susu serbaguna",
+                "harga_satuan": 11000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Kipas karakter",
+                "harga_satuan": 56000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710043032",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T03:57:12.000Z",
+        "jenis_barang": 1,
+        "jumlah_barang": 2,
+        "total_harga": 130000,
+        "detail": [
+            {
+                "barang": "Beras kemasan",
+                "harga_satuan": 65000,
+                "jumlah": 2,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710043198",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T03:59:58.000Z",
+        "jenis_barang": 1,
+        "jumlah_barang": 1,
+        "total_harga": 17000,
+        "detail": [
+            {
+                "barang": "Lipcream Implora",
+                "harga_satuan": 17000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710043300",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T04:01:40.000Z",
+        "jenis_barang": 1,
+        "jumlah_barang": 1,
+        "total_harga": 35000,
+        "detail": [
+            {
+                "barang": "Daster Cringkle Fuji",
+                "harga_satuan": 35000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710043368",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T04:02:48.000Z",
+        "jenis_barang": 4,
+        "jumlah_barang": 4,
+        "total_harga": 93000,
+        "detail": [
+            {
+                "barang": "Bedak Marcks tabur",
+                "harga_satuan": 16000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Kapas Selection 35gr",
+                "harga_satuan": 6500,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Pensil Alis",
+                "harga_satuan": 5500,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Beras kemasan",
+                "harga_satuan": 65000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710043510",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T04:05:10.000Z",
+        "jenis_barang": 3,
+        "jumlah_barang": 3,
+        "total_harga": 43000,
+        "detail": [
+            {
+                "barang": "Liquid Foundation OMG",
+                "harga_satuan": 20000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Vaseline Lip Therapi",
+                "harga_satuan": 8000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Susu Indomilk",
+                "harga_satuan": 15000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710043548",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T04:05:48.000Z",
+        "jenis_barang": 1,
+        "jumlah_barang": 1,
+        "total_harga": 17000,
+        "detail": [
+            {
+                "barang": "Emina BrightStuff Face Wash 50ml",
+                "harga_satuan": 17000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710043612",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T04:06:52.000Z",
+        "jenis_barang": 3,
+        "jumlah_barang": 3,
+        "total_harga": 50000,
+        "detail": [
+            {
+                "barang": "Sosis Bakar Salam 12",
+                "harga_satuan": 26000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Nugget ayam Salam 250g",
+                "harga_satuan": 11000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Cleantexs Pembersih Kamar Mandi",
+                "harga_satuan": 13000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710044147",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T04:15:47.000Z",
+        "jenis_barang": 2,
+        "jumlah_barang": 2,
+        "total_harga": 23000,
+        "detail": [
+            {
+                "barang": "Kutek",
+                "harga_satuan": 6000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Liptint Implora",
+                "harga_satuan": 17000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710044623",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T04:23:43.000Z",
+        "jenis_barang": 2,
+        "jumlah_barang": 2,
+        "total_harga": 33500,
+        "detail": [
+            {
+                "barang": "Herborist Body Serum",
+                "harga_satuan": 20500,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Cleantexs Pembersih Kamar Mandi",
+                "harga_satuan": 13000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710044860",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T04:27:40.000Z",
+        "jenis_barang": 5,
+        "jumlah_barang": 6,
+        "total_harga": 105000,
+        "detail": [
+            {
+                "barang": "Kapas Selection 75gr",
+                "harga_satuan": 11500,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Bakso Go",
+                "harga_satuan": 12000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Tempura ILM",
+                "harga_satuan": 13500,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Sosis Bakar Salam 12",
+                "harga_satuan": 26000,
+                "jumlah": 2,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Kornet Ayam Salam",
+                "harga_satuan": 16000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710045040",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T04:30:40.000Z",
+        "jenis_barang": 1,
+        "jumlah_barang": 1,
+        "total_harga": 10500,
+        "detail": [
+            {
+                "barang": "Bella Square",
+                "harga_satuan": 10500,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710045180",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T04:33:00.000Z",
+        "jenis_barang": 1,
+        "jumlah_barang": 4,
+        "total_harga": 260000,
+        "detail": [
+            {
+                "barang": "Beras kemasan",
+                "harga_satuan": 65000,
+                "jumlah": 4,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710045362",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T04:36:02.000Z",
+        "jenis_barang": 3,
+        "jumlah_barang": 3,
+        "total_harga": 31500,
+        "detail": [
+            {
+                "barang": "Pensil Alis",
+                "harga_satuan": 5500,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Soes Coklat  200gram",
+                "harga_satuan": 12500,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Bintang ILM",
+                "harga_satuan": 13500,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710045736",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T04:42:16.000Z",
+        "jenis_barang": 3,
+        "jumlah_barang": 4,
+        "total_harga": 50500,
+        "detail": [
+            {
+                "barang": "Gula",
+                "harga_satuan": 15000,
+                "jumlah": 2,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Bidaran RJ 200g",
+                "harga_satuan": 8000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Soes Coklat  200gram",
+                "harga_satuan": 12500,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710045759",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T04:42:39.000Z",
+        "jenis_barang": 1,
+        "jumlah_barang": 3,
+        "total_harga": 195000,
+        "detail": [
+            {
+                "barang": "Beras kemasan",
+                "harga_satuan": 65000,
+                "jumlah": 3,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710045778",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T04:42:58.000Z",
+        "jenis_barang": 1,
+        "jumlah_barang": 1,
+        "total_harga": 17500,
+        "detail": [
+            {
+                "barang": "Liptint Hanasui",
+                "harga_satuan": 17500,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710045970",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T04:46:10.000Z",
+        "jenis_barang": 3,
+        "jumlah_barang": 12,
+        "total_harga": 203500,
+        "detail": [
+            {
+                "barang": "Alat Pel Busa Sodok",
+                "harga_satuan": 42000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Gula",
+                "harga_satuan": 15000,
+                "jumlah": 10,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Kapas Selection 75gr",
+                "harga_satuan": 11500,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710046012",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T04:46:52.000Z",
+        "jenis_barang": 1,
+        "jumlah_barang": 2,
+        "total_harga": 24000,
+        "detail": [
+            {
+                "barang": "Pizza",
+                "harga_satuan": 12000,
+                "jumlah": 2,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710046838",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T05:00:38.000Z",
+        "jenis_barang": 2,
+        "jumlah_barang": 4,
+        "total_harga": 160000,
+        "detail": [
+            {
+                "barang": "Gula",
+                "harga_satuan": 15000,
+                "jumlah": 2,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Beras kemasan",
+                "harga_satuan": 65000,
+                "jumlah": 2,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710047606",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T05:13:26.000Z",
+        "jenis_barang": 5,
+        "jumlah_barang": 16,
+        "total_harga": 797500,
+        "detail": [
+            {
+                "barang": "Vaseline Lip Therapi",
+                "harga_satuan": 8000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Jepit rambut anak korea",
+                "harga_satuan": 8500,
+                "jumlah": 2,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Kaos kaki",
+                "harga_satuan": 5000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Stik Sabena",
+                "harga_satuan": 13500,
+                "jumlah": 5,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Star Wafer Stick Standart Dus",
+                "harga_satuan": 100000,
+                "jumlah": 7,
+                "satuan": "Dus"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710048019",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T05:20:19.000Z",
+        "jenis_barang": 1,
+        "jumlah_barang": 1,
+        "total_harga": 5500,
+        "detail": [
+            {
+                "barang": "Pensil Alis",
+                "harga_satuan": 5500,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710048164",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T05:22:44.000Z",
+        "jenis_barang": 1,
+        "jumlah_barang": 1,
+        "total_harga": 30000,
+        "detail": [
+            {
+                "barang": "Kulot Kancing 2",
+                "harga_satuan": 30000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710048356",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T05:25:56.000Z",
+        "jenis_barang": 2,
+        "jumlah_barang": 2,
+        "total_harga": 39500,
+        "detail": [
+            {
+                "barang": "Minyak BKP Fresh",
+                "harga_satuan": 14500,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Rak sepatu 4 susun",
+                "harga_satuan": 25000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710049715",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T05:48:35.000Z",
+        "jenis_barang": 2,
+        "jumlah_barang": 2,
+        "total_harga": 26000,
+        "detail": [
+            {
+                "barang": "Soes Coklat  200gram",
+                "harga_satuan": 12500,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Usus Crispy 250g",
+                "harga_satuan": 13500,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710050314",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T05:58:34.000Z",
+        "jenis_barang": 2,
+        "jumlah_barang": 2,
+        "total_harga": 63000,
+        "detail": [
+            {
+                "barang": "Kopi bubuk murni 325g",
+                "harga_satuan": 13000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Panci Presto gsf",
+                "harga_satuan": 50000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710053437",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T06:50:37.000Z",
+        "jenis_barang": 3,
+        "jumlah_barang": 3,
+        "total_harga": 59000,
+        "detail": [
+            {
+                "barang": "Toples Calista 5 Daun",
+                "harga_satuan": 45000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Bando Mutiara",
+                "harga_satuan": 4000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Cream Rose",
+                "harga_satuan": 10000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710053525",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T06:52:05.000Z",
+        "jenis_barang": 1,
+        "jumlah_barang": 6,
+        "total_harga": 30000,
+        "detail": [
+            {
+                "barang": "Pitato Kecil",
+                "harga_satuan": 5000,
+                "jumlah": 6,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710053743",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T06:55:43.000Z",
+        "jenis_barang": 2,
+        "jumlah_barang": 27,
+        "total_harga": 1635000,
+        "detail": [
+            {
+                "barang": "Margarin Fitri",
+                "harga_satuan": 5000,
+                "jumlah": 2,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Beras kemasan",
+                "harga_satuan": 65000,
+                "jumlah": 25,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710054578",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T07:09:38.000Z",
+        "jenis_barang": 1,
+        "jumlah_barang": 1,
+        "total_harga": 4500,
+        "detail": [
+            {
+                "barang": "Rinso",
+                "harga_satuan": 4500,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710054870",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T07:14:30.000Z",
+        "jenis_barang": 7,
+        "jumlah_barang": 20,
+        "total_harga": 204000,
+        "detail": [
+            {
+                "barang": "Bella Square",
+                "harga_satuan": 10500,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Strap Masker Karakter",
+                "harga_satuan": 3500,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Strap Masker",
+                "harga_satuan": 2500,
+                "jumlah": 2,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Basreng Stick 200g",
+                "harga_satuan": 9000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Masker Dewasa KF94 10pcs",
+                "harga_satuan": 4000,
+                "jumlah": 4,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Taplak Meja",
+                "harga_satuan": 10000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Gula",
+                "harga_satuan": 15000,
+                "jumlah": 10,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710054984",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T07:16:24.000Z",
+        "jenis_barang": 3,
+        "jumlah_barang": 3,
+        "total_harga": 22000,
+        "detail": [
+            {
+                "barang": "Kacamata 7000",
+                "harga_satuan": 7000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Cokelat Arjaiha",
+                "harga_satuan": 11000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Sabun colek sayang",
+                "harga_satuan": 4000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710055214",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T07:20:14.000Z",
+        "jenis_barang": 1,
+        "jumlah_barang": 1,
+        "total_harga": 65000,
+        "detail": [
+            {
+                "barang": "Beras kemasan",
+                "harga_satuan": 65000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710055581",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T07:26:21.000Z",
+        "jenis_barang": 1,
+        "jumlah_barang": 1,
+        "total_harga": 8000,
+        "detail": [
+            {
+                "barang": "Duckbill Hitam / Putih",
+                "harga_satuan": 8000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710056777",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T07:46:17.000Z",
+        "jenis_barang": 1,
+        "jumlah_barang": 1,
+        "total_harga": 14500,
+        "detail": [
+            {
+                "barang": "Scallop ILM",
+                "harga_satuan": 14500,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710059437",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T08:30:37.000Z",
+        "jenis_barang": 2,
+        "jumlah_barang": 3,
+        "total_harga": 65000,
+        "detail": [
+            {
+                "barang": "All Serum Implora",
+                "harga_satuan": 25000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "All Serum Hanasui",
+                "harga_satuan": 20000,
+                "jumlah": 2,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710059580",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T08:33:00.000Z",
+        "jenis_barang": 2,
+        "jumlah_barang": 3,
+        "total_harga": 95000,
+        "detail": [
+            {
+                "barang": "Kopi bubuk murni 325g",
+                "harga_satuan": 13000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Mente 1Kg",
+                "harga_satuan": 41000,
+                "jumlah": 2,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710060764",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T08:52:44.000Z",
+        "jenis_barang": 3,
+        "jumlah_barang": 3,
+        "total_harga": 139000,
+        "detail": [
+            {
+                "barang": "Permen Yupi /Toples",
+                "harga_satuan": 22500,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Astor Inova",
+                "harga_satuan": 16500,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Khong guan",
+                "harga_satuan": 100000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710060795",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T08:53:15.000Z",
+        "jenis_barang": 1,
+        "jumlah_barang": 1,
+        "total_harga": 20000,
+        "detail": [
+            {
+                "barang": "Sunscreen Hanasui",
+                "harga_satuan": 20000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710063190",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T09:33:10.000Z",
+        "jenis_barang": 2,
+        "jumlah_barang": 2,
+        "total_harga": 28500,
+        "detail": [
+            {
+                "barang": "Usus Crispy 250g",
+                "harga_satuan": 13500,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Susu Indomilk",
+                "harga_satuan": 15000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710063221",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T09:33:41.000Z",
+        "jenis_barang": 2,
+        "jumlah_barang": 2,
+        "total_harga": 17000,
+        "detail": [
+            {
+                "barang": "Basreng Stick 200g",
+                "harga_satuan": 9000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Kerupuk seblak 200gram",
+                "harga_satuan": 8000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710063696",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T09:41:36.000Z",
+        "jenis_barang": 1,
+        "jumlah_barang": 1,
+        "total_harga": 18500,
+        "detail": [
+            {
+                "barang": "Liptint Gel Implora",
+                "harga_satuan": 18500,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710063737",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T09:42:17.000Z",
+        "jenis_barang": 3,
+        "jumlah_barang": 3,
+        "total_harga": 90000,
+        "detail": [
+            {
+                "barang": "Nugget ayam Salam 250g",
+                "harga_satuan": 11000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Evangelina",
+                "harga_satuan": 14000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Beras kemasan",
+                "harga_satuan": 65000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710063908",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T09:45:08.000Z",
+        "jenis_barang": 1,
+        "jumlah_barang": 1,
+        "total_harga": 13500,
+        "detail": [
+            {
+                "barang": "pizza Long",
+                "harga_satuan": 13500,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710064219",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T09:50:19.000Z",
+        "jenis_barang": 1,
+        "jumlah_barang": 1,
+        "total_harga": 65000,
+        "detail": [
+            {
+                "barang": "Beras kemasan",
+                "harga_satuan": 65000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710064449",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T09:54:09.000Z",
+        "jenis_barang": 1,
+        "jumlah_barang": 2,
+        "total_harga": 24000,
+        "detail": [
+            {
+                "barang": "Pizza",
+                "harga_satuan": 12000,
+                "jumlah": 2,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710064703",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T09:58:23.000Z",
+        "jenis_barang": 4,
+        "jumlah_barang": 7,
+        "total_harga": 160000,
+        "detail": [
+            {
+                "barang": "Gula",
+                "harga_satuan": 15000,
+                "jumlah": 3,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Bedak temulawak padat",
+                "harga_satuan": 14000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Temulawak Kaca",
+                "harga_satuan": 11000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Toples Calista 5 Daun",
+                "harga_satuan": 45000,
+                "jumlah": 2,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710064879",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T10:01:19.000Z",
+        "jenis_barang": 3,
+        "jumlah_barang": 5,
+        "total_harga": 75000,
+        "detail": [
+            {
+                "barang": "Jepit rambut anak korea",
+                "harga_satuan": 8500,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Roti Kacang Mak Enak Ori",
+                "harga_satuan": 27500,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Stik Sabena",
+                "harga_satuan": 13000,
+                "jumlah": 3,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710064988",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T10:03:08.000Z",
+        "jenis_barang": 3,
+        "jumlah_barang": 3,
+        "total_harga": 21000,
+        "detail": [
+            {
+                "barang": "Oilash Serum Bulumata",
+                "harga_satuan": 6000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Pensil Alis",
+                "harga_satuan": 5500,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Sabun Boom dapat 3",
+                "harga_satuan": 9500,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710065296",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T10:08:16.000Z",
+        "jenis_barang": 7,
+        "jumlah_barang": 8,
+        "total_harga": 58500,
+        "detail": [
+            {
+                "barang": "Korek Pembersih Telinga",
+                "harga_satuan": 1000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Pizza",
+                "harga_satuan": 12000,
+                "jumlah": 2,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Vaseline Lip Therapi",
+                "harga_satuan": 8000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Kacamata 7000",
+                "harga_satuan": 7000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Ikat Rambut Jepang Dompet",
+                "harga_satuan": 6000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Bando Mutiara",
+                "harga_satuan": 4000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Kulit Lumpia",
+                "harga_satuan": 8500,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710065454",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T10:10:54.000Z",
+        "jenis_barang": 2,
+        "jumlah_barang": 2,
+        "total_harga": 37500,
+        "detail": [
+            {
+                "barang": "Pensil Alis",
+                "harga_satuan": 5500,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Daster Fuji",
+                "harga_satuan": 32000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710065484",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T10:11:24.000Z",
+        "jenis_barang": 1,
+        "jumlah_barang": 1,
+        "total_harga": 8000,
+        "detail": [
+            {
+                "barang": "Vaseline Lip Therapi",
+                "harga_satuan": 8000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710065789",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T10:16:29.000Z",
+        "jenis_barang": 1,
+        "jumlah_barang": 1,
+        "total_harga": 65000,
+        "detail": [
+            {
+                "barang": "Beras kemasan",
+                "harga_satuan": 65000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710065818",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T10:16:58.000Z",
+        "jenis_barang": 1,
+        "jumlah_barang": 1,
+        "total_harga": 12000,
+        "detail": [
+            {
+                "barang": "Bb Cream Lameila",
+                "harga_satuan": 12000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710065980",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T10:19:40.000Z",
+        "jenis_barang": 3,
+        "jumlah_barang": 3,
+        "total_harga": 48500,
+        "detail": [
+            {
+                "barang": "Bedak Pixy",
+                "harga_satuan": 20000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Nugget ayam Salam 250g",
+                "harga_satuan": 11000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Sosis Salam Merah 500g",
+                "harga_satuan": 17500,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710066033",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T10:20:33.000Z",
+        "jenis_barang": 1,
+        "jumlah_barang": 1,
+        "total_harga": 12000,
+        "detail": [
+            {
+                "barang": "Marina Compact Powder",
+                "harga_satuan": 12000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710066735",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T10:32:15.000Z",
+        "jenis_barang": 1,
+        "jumlah_barang": 2,
+        "total_harga": 130000,
+        "detail": [
+            {
+                "barang": "Beras kemasan",
+                "harga_satuan": 65000,
+                "jumlah": 2,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710067839",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T10:50:39.000Z",
+        "jenis_barang": 1,
+        "jumlah_barang": 2,
+        "total_harga": 40000,
+        "detail": [
+            {
+                "barang": "Sabun Bamboo MSI",
+                "harga_satuan": 20000,
+                "jumlah": 2,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710068364",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T10:59:24.000Z",
+        "jenis_barang": 1,
+        "jumlah_barang": 1,
+        "total_harga": 13500,
+        "detail": [
+            {
+                "barang": "pizza Long",
+                "harga_satuan": 13500,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710068763",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T11:06:03.000Z",
+        "jenis_barang": 5,
+        "jumlah_barang": 5,
+        "total_harga": 63500,
+        "detail": [
+            {
+                "barang": "Roti Maryam Ori 225g",
+                "harga_satuan": 9500,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Bedak Revlon 2in1",
+                "harga_satuan": 22000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Corndog isi 2",
+                "harga_satuan": 9500,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Lipcream Implora",
+                "harga_satuan": 17000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Pensil Alis",
+                "harga_satuan": 5500,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710068910",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T11:08:30.000Z",
+        "jenis_barang": 1,
+        "jumlah_barang": 1,
+        "total_harga": 9000,
+        "detail": [
+            {
+                "barang": "Hijab sport",
+                "harga_satuan": 9000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710069847",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T11:24:07.000Z",
+        "jenis_barang": 4,
+        "jumlah_barang": 5,
+        "total_harga": 30000,
+        "detail": [
+            {
+                "barang": "Pitato Kecil",
+                "harga_satuan": 5000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Kinoki",
+                "harga_satuan": 7000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Milku",
+                "harga_satuan": 3000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Nyam-Nyam Box",
+                "harga_satuan": 7500,
+                "jumlah": 2,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710070055",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T11:27:35.000Z",
+        "jenis_barang": 3,
+        "jumlah_barang": 17,
+        "total_harga": 793000,
+        "detail": [
+            {
+                "barang": "Margarin Fitri",
+                "harga_satuan": 5000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Roti Kacang Ori",
+                "harga_satuan": 23000,
+                "jumlah": 6,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Beras kemasan",
+                "harga_satuan": 65000,
+                "jumlah": 10,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710070246",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T11:30:46.000Z",
+        "jenis_barang": 1,
+        "jumlah_barang": 1,
+        "total_harga": 100000,
+        "detail": [
+            {
+                "barang": "HB Dosting Kredit",
+                "harga_satuan": 100000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710070610",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T11:36:50.000Z",
+        "jenis_barang": 1,
+        "jumlah_barang": 3,
+        "total_harga": 45000,
+        "detail": [
+            {
+                "barang": "Gula",
+                "harga_satuan": 15000,
+                "jumlah": 3,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710070725",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T11:38:45.000Z",
+        "jenis_barang": 2,
+        "jumlah_barang": 6,
+        "total_harga": 140000,
+        "detail": [
+            {
+                "barang": "Beras kemasan",
+                "harga_satuan": 65000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Kurma Al Qasim 500gram",
+                "harga_satuan": 15000,
+                "jumlah": 5,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710071133",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T11:45:33.000Z",
+        "jenis_barang": 8,
+        "jumlah_barang": 8,
+        "total_harga": 89000,
+        "detail": [
+            {
+                "barang": "Cireng Salju",
+                "harga_satuan": 8000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Sosis Mie Isi 22",
+                "harga_satuan": 8500,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Sosis Merah Abah 750gr",
+                "harga_satuan": 23500,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Nugget ayam Salam 250g",
+                "harga_satuan": 11000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Cireng Koin",
+                "harga_satuan": 9000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Sabun Boom dapat 3",
+                "harga_satuan": 9500,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Parfum Laundry Botol 500ml",
+                "harga_satuan": 6500,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Minyak Wayang",
+                "harga_satuan": 13000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710071284",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T11:48:04.000Z",
+        "jenis_barang": 2,
+        "jumlah_barang": 9,
+        "total_harga": 88500,
+        "detail": [
+            {
+                "barang": "Pitato Kentang Goreng",
+                "harga_satuan": 10000,
+                "jumlah": 8,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Cimory yogurt isi 5",
+                "harga_satuan": 8500,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710071593",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T11:53:13.000Z",
+        "jenis_barang": 3,
+        "jumlah_barang": 4,
+        "total_harga": 104000,
+        "detail": [
+            {
+                "barang": "Dr Gold",
+                "harga_satuan": 10000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Beras kemasan",
+                "harga_satuan": 65000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Minyak Goreng Sawit Ecer",
+                "harga_satuan": 14500,
+                "jumlah": 2,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710072018",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T12:00:18.000Z",
+        "jenis_barang": 1,
+        "jumlah_barang": 1,
+        "total_harga": 8000,
+        "detail": [
+            {
+                "barang": "Sabun Papaya",
+                "harga_satuan": 8000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710072310",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T12:05:10.000Z",
+        "jenis_barang": 6,
+        "jumlah_barang": 18,
+        "total_harga": 484000,
+        "detail": [
+            {
+                "barang": "Starqueen Wafer Stick Standart",
+                "harga_satuan": 21500,
+                "jumlah": 4,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Pitato Kecil",
+                "harga_satuan": 5000,
+                "jumlah": 5,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Sosis Bakar Salam 12",
+                "harga_satuan": 26000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Nabati wafer",
+                "harga_satuan": 27000,
+                "jumlah": 5,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Stik Sabena Dus",
+                "harga_satuan": 60000,
+                "jumlah": 2,
+                "satuan": "Dus"
+            },
+            {
+                "barang": "Poteto Bal",
+                "harga_satuan": 92000,
+                "jumlah": 1,
+                "satuan": "Dus"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710073980",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T12:33:00.000Z",
+        "jenis_barang": 1,
+        "jumlah_barang": 1,
+        "total_harga": 65000,
+        "detail": [
+            {
+                "barang": "Beras kemasan",
+                "harga_satuan": 65000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710074607",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T12:43:27.000Z",
+        "jenis_barang": 2,
+        "jumlah_barang": 2,
+        "total_harga": 34000,
+        "detail": [
+            {
+                "barang": "Minyak Kemiri Kuntze",
+                "harga_satuan": 17000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Nugget So Eco 500g",
+                "harga_satuan": 17000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710074694",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T12:44:54.000Z",
+        "jenis_barang": 3,
+        "jumlah_barang": 3,
+        "total_harga": 63000,
+        "detail": [
+            {
+                "barang": "Sabun batang lux",
+                "harga_satuan": 20000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Sosis Bakar Salam 12",
+                "harga_satuan": 26000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Nugget So Eco 500g",
+                "harga_satuan": 17000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710075163",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T12:52:43.000Z",
+        "jenis_barang": 1,
+        "jumlah_barang": 20,
+        "total_harga": 300000,
+        "detail": [
+            {
+                "barang": "Gula",
+                "harga_satuan": 15000,
+                "jumlah": 20,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710076686",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T13:18:06.000Z",
+        "jenis_barang": 1,
+        "jumlah_barang": 1,
+        "total_harga": 15000,
+        "detail": [
+            {
+                "barang": "Sabun Kojiesan",
+                "harga_satuan": 15000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710077312",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T13:28:32.000Z",
+        "jenis_barang": 1,
+        "jumlah_barang": 1,
+        "total_harga": 12000,
+        "detail": [
+            {
+                "barang": "Pizza",
+                "harga_satuan": 12000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710077813",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T13:36:53.000Z",
+        "jenis_barang": 2,
+        "jumlah_barang": 3,
+        "total_harga": 91000,
+        "detail": [
+            {
+                "barang": "Kurma golden 500gr",
+                "harga_satuan": 13000,
+                "jumlah": 2,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Beras kemasan",
+                "harga_satuan": 65000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710078416",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T13:46:56.000Z",
+        "jenis_barang": 1,
+        "jumlah_barang": 2,
+        "total_harga": 27000,
+        "detail": [
+            {
+                "barang": "pizza Long",
+                "harga_satuan": 13500,
+                "jumlah": 2,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710078560",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T13:49:20.000Z",
+        "jenis_barang": 1,
+        "jumlah_barang": 1,
+        "total_harga": 23000,
+        "detail": [
+            {
+                "barang": "Dilan garuda",
+                "harga_satuan": 23000,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710079471",
+        "kepada": "om iyan",
+        "alamat": "jombang",
+        "tgl_penjualan": "2024-03-10T14:04:31.000Z",
+        "jenis_barang": 2,
+        "jumlah_barang": 11,
+        "total_harga": 164500,
+        "detail": [
+            {
+                "barang": "Gula",
+                "harga_satuan": 15000,
+                "jumlah": 10,
+                "satuan": "Pcs"
+            },
+            {
+                "barang": "Minyak Goreng Sawit Ecer",
+                "harga_satuan": 14500,
+                "jumlah": 1,
+                "satuan": "Pcs"
+            }
+        ]
+    },
+    {
+        "id_transaksi": "1710080163",
+        "kepada": "",
+        "alamat": "",
+        "tgl_penjualan": "2024-03-10T14:16:03.000Z",
+        "jenis_barang": 1,
+        "jumlah_barang": 11,
+        "total_harga": 159500,
+        "detail": [
+            {
+                "barang": "Minyak Goreng Sawit Ecer",
+                "harga_satuan": 14500,
+                "jumlah": 11,
+                "satuan": "Pcs"
+            }
+        ]
+    }
+]"
+}
