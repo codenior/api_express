@@ -1,7 +1,7 @@
-const express = require("express");
+import bp from "body-parser";
+import express from "express";
 const app = express();
-const db = require("./db.js");
-const bp = require("body-parser");
+import db from "./db.js"
 const urlp = bp.urlencoded({ extended: true });
 
 app.get("/status", async (req, res) => {

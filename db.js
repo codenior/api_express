@@ -32,4 +32,4 @@ const getDetailPenjualan = async (idtransaksi) => {
     const [rows] = await db.execute(sql);
     return rows.length > 0 ? rows : false;
 }
-module.exports= {koneksi, getLokasiDana, getPenjualan, getDetailPenjualan}
+module.exports= {koneksi, getLokasiDana, getPenjualan, getDetailPenjualan};
