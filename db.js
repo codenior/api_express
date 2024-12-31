@@ -1,4 +1,5 @@
-const mysql = require("mysql2/promise");
+
+import mysql from "mysql2/promise"
 
 
 let sql;
@@ -32,4 +33,16 @@ const getDetailPenjualan = async (idtransaksi) => {
     const [rows] = await db.execute(sql);
     return rows.length > 0 ? rows : false;
 }
-module.exports= {koneksi, getLokasiDana, getPenjualan, getDetailPenjualan};
+const formPemjualan = async ()=>{
+    const db = await koneksi();
+    sql = "SELECT form.id, form.nama, menu.icon, menu.status, menu.urut FROM form INNER JOIN menu  ON form.id_menu=menu.id";
+    const [rows] = await db.execute(sql);
+    return rows.length > 0 ? rows : false;
+}
+const ambilKoreksiStok = async ()=>{
+    const db = await koneksi();
+    sql = "SELECT koreksi_stok.id, barang.nama,koreksi_stok.jenis, koreksi_stok.satuan, koreksi_stok.jumlah, koreksi_stok.alasan FROM koreksi_stok INNER JOIN barang  ON koreksi_stok.id_barang=barang.id";
+    const [rows] = await db.execute(sql);
+    return rows.length > 0 ? rows : false;
+}
+export default {koneksi, getLokasiDana, getPenjualan, getDetailPenjualan, formPemjualan, ambilKoreksiStok};
